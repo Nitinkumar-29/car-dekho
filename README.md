@@ -87,6 +87,11 @@ npm run dev
 ```
 Frontend runs on Vite default URL (typically `http://localhost:5173`)
 
+Set backend URL via `client/.env`:
+```bash
+VITE_API_URL=http://localhost:3000/api
+```
+
 ## API Contract (Core)
 ### POST `/api/recommendations`
 Request:

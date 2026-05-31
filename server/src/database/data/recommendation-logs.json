@@ -75,5 +75,21 @@
       "Harrier"
     ],
     "createdAt": "2026-05-31T05:48:41.050Z"
+  },
+  {
+    "userPreferences": {
+      "budget": "20L+",
+      "usage": "Highway",
+      "familySize": 4,
+      "fuel": "Diesel",
+      "priority": "Mileage",
+      "location": "Mumbai"
+    },
+    "recommendedCars": [
+      "Urban Cruiser Hyryder",
+      "Innova Hycross",
+      "Harrier"
+    ],
+    "createdAt": "2026-05-31T06:06:40.828Z"
   }
 ]

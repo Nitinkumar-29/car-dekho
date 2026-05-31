@@ -3,7 +3,7 @@ import type { QuestionnaireAnswers, CarRecommendation } from '../types';
 
 // Axios Instance pointing to typical backend (local or env configuration)
 const api = axios.create({
-  baseURL: import.meta.env.VITE_API_URL || 'http://localhost:3000/api',
+  baseURL: import.meta.env.VITE_API_URL || 'https://car-dekho-3dtr.onrender.com/api',
   timeout: 10000,
   headers: {
     'Content-Type': 'application/json',
