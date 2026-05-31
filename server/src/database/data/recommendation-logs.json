@@ -1,0 +1,79 @@
+[
+  {
+    "userPreferences": {
+      "budget": "0-10L",
+      "usage": "Mixed",
+      "familySize": 5,
+      "fuel": "EV",
+      "priority": "Mileage"
+    },
+    "recommendedCars": [
+      "Baleno",
+      "Glanza",
+      "Swift"
+    ],
+    "createdAt": "2026-05-31T05:44:25.190Z"
+  },
+  {
+    "userPreferences": {
+      "budget": "0-10L",
+      "usage": "Mixed",
+      "familySize": 5,
+      "fuel": "EV",
+      "priority": "Mileage"
+    },
+    "recommendedCars": [
+      "Baleno",
+      "Glanza",
+      "Swift"
+    ],
+    "createdAt": "2026-05-31T05:44:25.194Z"
+  },
+  {
+    "userPreferences": {
+      "budget": "10-15L",
+      "usage": "City",
+      "familySize": 4,
+      "fuel": "Petrol",
+      "priority": "Safety"
+    },
+    "recommendedCars": [
+      "Honda City",
+      "Nexon",
+      "Brezza"
+    ],
+    "createdAt": "2026-05-31T05:44:43.430Z"
+  },
+  {
+    "userPreferences": {
+      "budget": "10-15L",
+      "usage": "City",
+      "familySize": 4,
+      "fuel": "Petrol",
+      "priority": "Safety",
+      "location": "Bengaluru"
+    },
+    "recommendedCars": [
+      "Honda City",
+      "Nexon",
+      "Brezza"
+    ],
+    "createdAt": "2026-05-31T05:44:47.838Z"
+  },
+  {
+    "userPreferences": {
+      "budget": "20L+",
+      "usage": "Highway",
+      "familySize": 4,
+      "fuel": "Diesel",
+      "priority": "Mileage",
+      "location": "Mumbai"
+    },
+    "recommendedCars": [
+      "Urban Cruiser Hyryder",
+      "Innova Hycross",
+      "Harrier"
+    ],
+    "createdAt": "2026-05-31T05:48:41.050Z"
+  }
+]
