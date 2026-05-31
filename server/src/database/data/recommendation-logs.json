@@ -91,5 +91,37 @@
       "Harrier"
     ],
     "createdAt": "2026-05-31T06:06:40.828Z"
+  },
+  {
+    "userPreferences": {
+      "budget": "0-10L",
+      "usage": "City",
+      "familySize": 4,
+      "fuel": "Petrol",
+      "priority": "Safety",
+      "location": "Bengaluru"
+    },
+    "recommendedCars": [
+      "Altroz",
+      "Baleno",
+      "Glanza"
+    ],
+    "createdAt": "2026-05-31T06:26:02.791Z"
+  },
+  {
+    "userPreferences": {
+      "budget": "20L+",
+      "usage": "Highway",
+      "familySize": 4,
+      "fuel": "Diesel",
+      "priority": "Mileage",
+      "location": "Mumbai"
+    },
+    "recommendedCars": [
+      "Urban Cruiser Hyryder",
+      "Innova Hycross",
+      "Harrier"
+    ],
+    "createdAt": "2026-05-31T06:28:03.356Z"
   }
 ]

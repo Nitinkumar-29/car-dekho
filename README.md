@@ -87,9 +87,14 @@ npm run dev
 ```
 Frontend runs on Vite default URL (typically `http://localhost:5173`)
 
-Set backend URL via `client/.env`:
+Set backend URL locally via `client/.env.development`:
 ```bash
 VITE_API_URL=http://localhost:3000/api
+```
+
+For deployment (Vercel), set project Environment Variable:
+```bash
+VITE_API_URL=https://your-backend-service.onrender.com/api
 ```
 
 ## API Contract (Core)
